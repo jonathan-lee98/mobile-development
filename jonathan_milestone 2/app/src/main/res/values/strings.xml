@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">TemperatureApp</string>
+    <string name="enter_your_city_name">City Name</string>
+</resources>
