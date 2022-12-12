@@ -1,0 +1,142 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.assignment.temperatureapp"
+4    android:versionCode="1"
+5    android:versionName="1.0" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="24"
+8-->C:\Users\jonat\OneDrive\Desktop\TemperatureApp\app\src\main\AndroidManifest.xml
+9        android:targetSdkVersion="32" />
+9-->C:\Users\jonat\OneDrive\Desktop\TemperatureApp\app\src\main\AndroidManifest.xml
+10
+11    <uses-permission android:name="android.permission.INTERNET" />
+11-->C:\Users\jonat\OneDrive\Desktop\TemperatureApp\app\src\main\AndroidManifest.xml:5:5-67
+11-->C:\Users\jonat\OneDrive\Desktop\TemperatureApp\app\src\main\AndroidManifest.xml:5:22-64
+12
+13    <application
+13-->C:\Users\jonat\OneDrive\Desktop\TemperatureApp\app\src\main\AndroidManifest.xml:7:5-59:19
+14        android:allowBackup="true"
+14-->C:\Users\jonat\OneDrive\Desktop\TemperatureApp\app\src\main\AndroidManifest.xml:8:9-35
+15        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+15-->[androidx.core:core:1.8.0] C:\Users\jonat\.gradle\caches\transforms-3\87a796fe63836d99a2198ac6a6284cb3\transformed\core-1.8.0\AndroidManifest.xml:24:18-86
+16        android:dataExtractionRules="@xml/data_extraction_rules"
+16-->C:\Users\jonat\OneDrive\Desktop\TemperatureApp\app\src\main\AndroidManifest.xml:9:9-65
+17        android:debuggable="true"
+18        android:extractNativeLibs="false"
+19        android:fullBackupContent="@xml/backup_rules"
+19-->C:\Users\jonat\OneDrive\Desktop\TemperatureApp\app\src\main\AndroidManifest.xml:10:9-54
+20        android:icon="@mipmap/ic_launcher"
+20-->C:\Users\jonat\OneDrive\Desktop\TemperatureApp\app\src\main\AndroidManifest.xml:11:9-43
+21        android:label="@string/app_name"
+21-->C:\Users\jonat\OneDrive\Desktop\TemperatureApp\app\src\main\AndroidManifest.xml:12:9-41
+22        android:roundIcon="@mipmap/ic_launcher_round"
+22-->C:\Users\jonat\OneDrive\Desktop\TemperatureApp\app\src\main\AndroidManifest.xml:13:9-54
+23        android:supportsRtl="true"
+23-->C:\Users\jonat\OneDrive\Desktop\TemperatureApp\app\src\main\AndroidManifest.xml:14:9-35
+24        android:testOnly="true"
+25        android:theme="@style/Theme.TemperatureApp" >
+25-->C:\Users\jonat\OneDrive\Desktop\TemperatureApp\app\src\main\AndroidManifest.xml:15:9-52
+26        <activity
+26-->C:\Users\jonat\OneDrive\Desktop\TemperatureApp\app\src\main\AndroidManifest.xml:17:9-23:20
+27            android:name="com.assignment.temperatureapp.TemperatureActivity"
+27-->C:\Users\jonat\OneDrive\Desktop\TemperatureApp\app\src\main\AndroidManifest.xml:18:13-48
+28            android:exported="false" >
+28-->C:\Users\jonat\OneDrive\Desktop\TemperatureApp\app\src\main\AndroidManifest.xml:19:13-37
+29            <meta-data
+29-->C:\Users\jonat\OneDrive\Desktop\TemperatureApp\app\src\main\AndroidManifest.xml:20:13-22:36
+30                android:name="android.app.lib_name"
+30-->C:\Users\jonat\OneDrive\Desktop\TemperatureApp\app\src\main\AndroidManifest.xml:21:17-52
+31                android:value="" />
+31-->C:\Users\jonat\OneDrive\Desktop\TemperatureApp\app\src\main\AndroidManifest.xml:22:17-33
+32        </activity>
+33        <activity
+33-->C:\Users\jonat\OneDrive\Desktop\TemperatureApp\app\src\main\AndroidManifest.xml:24:9-30:20
+34            android:name="com.assignment.temperatureapp.DetailsActivity"
+34-->C:\Users\jonat\OneDrive\Desktop\TemperatureApp\app\src\main\AndroidManifest.xml:25:13-44
+35            android:exported="false" >
+35-->C:\Users\jonat\OneDrive\Desktop\TemperatureApp\app\src\main\AndroidManifest.xml:26:13-37
+36            <meta-data
+36-->C:\Users\jonat\OneDrive\Desktop\TemperatureApp\app\src\main\AndroidManifest.xml:20:13-22:36
+37                android:name="android.app.lib_name"
+37-->C:\Users\jonat\OneDrive\Desktop\TemperatureApp\app\src\main\AndroidManifest.xml:21:17-52
+38                android:value="" />
+38-->C:\Users\jonat\OneDrive\Desktop\TemperatureApp\app\src\main\AndroidManifest.xml:22:17-33
+39        </activity>
+40        <activity
+40-->C:\Users\jonat\OneDrive\Desktop\TemperatureApp\app\src\main\AndroidManifest.xml:31:9-37:20
+41            android:name="com.assignment.temperatureapp.HistoryActivity"
+41-->C:\Users\jonat\OneDrive\Desktop\TemperatureApp\app\src\main\AndroidManifest.xml:32:13-44
+42            android:exported="false" >
+42-->C:\Users\jonat\OneDrive\Desktop\TemperatureApp\app\src\main\AndroidManifest.xml:33:13-37
+43            <meta-data
+43-->C:\Users\jonat\OneDrive\Desktop\TemperatureApp\app\src\main\AndroidManifest.xml:20:13-22:36
+44                android:name="android.app.lib_name"
+44-->C:\Users\jonat\OneDrive\Desktop\TemperatureApp\app\src\main\AndroidManifest.xml:21:17-52
+45                android:value="" />
+45-->C:\Users\jonat\OneDrive\Desktop\TemperatureApp\app\src\main\AndroidManifest.xml:22:17-33
+46        </activity>
+47        <activity
+47-->C:\Users\jonat\OneDrive\Desktop\TemperatureApp\app\src\main\AndroidManifest.xml:38:9-44:20
+48            android:name="com.assignment.temperatureapp.MainActivity"
+48-->C:\Users\jonat\OneDrive\Desktop\TemperatureApp\app\src\main\AndroidManifest.xml:39:13-41
+49            android:exported="false" >
+49-->C:\Users\jonat\OneDrive\Desktop\TemperatureApp\app\src\main\AndroidManifest.xml:40:13-37
+50            <meta-data
+50-->C:\Users\jonat\OneDrive\Desktop\TemperatureApp\app\src\main\AndroidManifest.xml:20:13-22:36
+51                android:name="android.app.lib_name"
+51-->C:\Users\jonat\OneDrive\Desktop\TemperatureApp\app\src\main\AndroidManifest.xml:21:17-52
+52                android:value="" />
+52-->C:\Users\jonat\OneDrive\Desktop\TemperatureApp\app\src\main\AndroidManifest.xml:22:17-33
+53        </activity>
+54        <activity
+54-->C:\Users\jonat\OneDrive\Desktop\TemperatureApp\app\src\main\AndroidManifest.xml:45:9-58:20
+55            android:name="com.assignment.temperatureapp.SplashActivity"
+55-->C:\Users\jonat\OneDrive\Desktop\TemperatureApp\app\src\main\AndroidManifest.xml:46:13-43
+56            android:exported="true"
+56-->C:\Users\jonat\OneDrive\Desktop\TemperatureApp\app\src\main\AndroidManifest.xml:47:13-36
+57            android:theme="@style/Theme.TemperatureAppSplash" >
+57-->C:\Users\jonat\OneDrive\Desktop\TemperatureApp\app\src\main\AndroidManifest.xml:48:13-62
+58            <intent-filter>
+58-->C:\Users\jonat\OneDrive\Desktop\TemperatureApp\app\src\main\AndroidManifest.xml:49:13-53:29
+59                <action android:name="android.intent.action.MAIN" />
+59-->C:\Users\jonat\OneDrive\Desktop\TemperatureApp\app\src\main\AndroidManifest.xml:50:17-69
+59-->C:\Users\jonat\OneDrive\Desktop\TemperatureApp\app\src\main\AndroidManifest.xml:50:25-66
+60
+61                <category android:name="android.intent.category.LAUNCHER" />
+61-->C:\Users\jonat\OneDrive\Desktop\TemperatureApp\app\src\main\AndroidManifest.xml:52:17-77
+61-->C:\Users\jonat\OneDrive\Desktop\TemperatureApp\app\src\main\AndroidManifest.xml:52:27-74
+62            </intent-filter>
+63
+64            <meta-data
+64-->C:\Users\jonat\OneDrive\Desktop\TemperatureApp\app\src\main\AndroidManifest.xml:20:13-22:36
+65                android:name="android.app.lib_name"
+65-->C:\Users\jonat\OneDrive\Desktop\TemperatureApp\app\src\main\AndroidManifest.xml:21:17-52
+66                android:value="" />
+66-->C:\Users\jonat\OneDrive\Desktop\TemperatureApp\app\src\main\AndroidManifest.xml:22:17-33
+67        </activity>
+68
+69        <provider
+69-->[androidx.emoji2:emoji2:1.2.0] C:\Users\jonat\.gradle\caches\transforms-3\c03fa7bc00a04a375204b573f0966d9f\transformed\emoji2-1.2.0\AndroidManifest.xml:24:9-32:20
+70            android:name="androidx.startup.InitializationProvider"
+70-->[androidx.emoji2:emoji2:1.2.0] C:\Users\jonat\.gradle\caches\transforms-3\c03fa7bc00a04a375204b573f0966d9f\transformed\emoji2-1.2.0\AndroidManifest.xml:25:13-67
+71            android:authorities="com.assignment.temperatureapp.androidx-startup"
+71-->[androidx.emoji2:emoji2:1.2.0] C:\Users\jonat\.gradle\caches\transforms-3\c03fa7bc00a04a375204b573f0966d9f\transformed\emoji2-1.2.0\AndroidManifest.xml:26:13-68
+72            android:exported="false" >
+72-->[androidx.emoji2:emoji2:1.2.0] C:\Users\jonat\.gradle\caches\transforms-3\c03fa7bc00a04a375204b573f0966d9f\transformed\emoji2-1.2.0\AndroidManifest.xml:27:13-37
+73            <meta-data
+73-->[androidx.emoji2:emoji2:1.2.0] C:\Users\jonat\.gradle\caches\transforms-3\c03fa7bc00a04a375204b573f0966d9f\transformed\emoji2-1.2.0\AndroidManifest.xml:29:13-31:52
+74                android:name="androidx.emoji2.text.EmojiCompatInitializer"
+74-->[androidx.emoji2:emoji2:1.2.0] C:\Users\jonat\.gradle\caches\transforms-3\c03fa7bc00a04a375204b573f0966d9f\transformed\emoji2-1.2.0\AndroidManifest.xml:30:17-75
+75                android:value="androidx.startup" />
+75-->[androidx.emoji2:emoji2:1.2.0] C:\Users\jonat\.gradle\caches\transforms-3\c03fa7bc00a04a375204b573f0966d9f\transformed\emoji2-1.2.0\AndroidManifest.xml:31:17-49
+76            <meta-data
+76-->[androidx.lifecycle:lifecycle-process:2.4.1] C:\Users\jonat\.gradle\caches\transforms-3\0ce9e5f033589fdf0ab757f82f7808ec\transformed\lifecycle-process-2.4.1\AndroidManifest.xml:31:13-33:52
+77                android:name="androidx.lifecycle.ProcessLifecycleInitializer"
+77-->[androidx.lifecycle:lifecycle-process:2.4.1] C:\Users\jonat\.gradle\caches\transforms-3\0ce9e5f033589fdf0ab757f82f7808ec\transformed\lifecycle-process-2.4.1\AndroidManifest.xml:32:17-78
+78                android:value="androidx.startup" />
+78-->[androidx.lifecycle:lifecycle-process:2.4.1] C:\Users\jonat\.gradle\caches\transforms-3\0ce9e5f033589fdf0ab757f82f7808ec\transformed\lifecycle-process-2.4.1\AndroidManifest.xml:33:17-49
+79        </provider>
+80    </application>
+81
+82</manifest>

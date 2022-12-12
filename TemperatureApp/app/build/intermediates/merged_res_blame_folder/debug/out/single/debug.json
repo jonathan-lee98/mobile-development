@@ -1,0 +1,134 @@
+[
+    {
+        "merged": "com.assignment.temperatureapp-merged_res-30:/mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "com.assignment.temperatureapp-main-32:/mipmap-xxxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.assignment.temperatureapp-merged_res-30:/layout_activity_history.xml.flat",
+        "source": "com.assignment.temperatureapp-main-32:/layout/activity_history.xml"
+    },
+    {
+        "merged": "com.assignment.temperatureapp-merged_res-30:/mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "com.assignment.temperatureapp-main-32:/mipmap-xhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.assignment.temperatureapp-merged_res-30:/drawable_sun.png.flat",
+        "source": "com.assignment.temperatureapp-main-32:/drawable/sun.png"
+    },
+    {
+        "merged": "com.assignment.temperatureapp-merged_res-30:/layout_activity_main.xml.flat",
+        "source": "com.assignment.temperatureapp-main-32:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.assignment.temperatureapp-merged_res-30:/xml_backup_rules.xml.flat",
+        "source": "com.assignment.temperatureapp-main-32:/xml/backup_rules.xml"
+    },
+    {
+        "merged": "com.assignment.temperatureapp-merged_res-30:/mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "com.assignment.temperatureapp-main-32:/mipmap-mdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.assignment.temperatureapp-merged_res-30:/drawable_rounded_border.xml.flat",
+        "source": "com.assignment.temperatureapp-main-32:/drawable/rounded_border.xml"
+    },
+    {
+        "merged": "com.assignment.temperatureapp-merged_res-30:/drawable_clouds.png.flat",
+        "source": "com.assignment.temperatureapp-main-32:/drawable/clouds.png"
+    },
+    {
+        "merged": "com.assignment.temperatureapp-merged_res-30:/drawable_ic_search.xml.flat",
+        "source": "com.assignment.temperatureapp-main-32:/drawable/ic_search.xml"
+    },
+    {
+        "merged": "com.assignment.temperatureapp-merged_res-30:/drawable_sunrise.png.flat",
+        "source": "com.assignment.temperatureapp-main-32:/drawable/sunrise.png"
+    },
+    {
+        "merged": "com.assignment.temperatureapp-merged_res-30:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "com.assignment.temperatureapp-main-32:/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "com.assignment.temperatureapp-merged_res-30:/layout_activity_splash.xml.flat",
+        "source": "com.assignment.temperatureapp-main-32:/layout/activity_splash.xml"
+    },
+    {
+        "merged": "com.assignment.temperatureapp-merged_res-30:/mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "com.assignment.temperatureapp-main-32:/mipmap-xxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.assignment.temperatureapp-merged_res-30:/drawable_splash.jpg.flat",
+        "source": "com.assignment.temperatureapp-main-32:/drawable/splash.jpg"
+    },
+    {
+        "merged": "com.assignment.temperatureapp-merged_res-30:/drawable_sunset.png.flat",
+        "source": "com.assignment.temperatureapp-main-32:/drawable/sunset.png"
+    },
+    {
+        "merged": "com.assignment.temperatureapp-merged_res-30:/mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "com.assignment.temperatureapp-main-32:/mipmap-hdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.assignment.temperatureapp-merged_res-30:/drawable_ic_launcher_background.xml.flat",
+        "source": "com.assignment.temperatureapp-main-32:/drawable/ic_launcher_background.xml"
+    },
+    {
+        "merged": "com.assignment.temperatureapp-merged_res-30:/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "com.assignment.temperatureapp-main-32:/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "com.assignment.temperatureapp-merged_res-30:/drawable_tempdown.png.flat",
+        "source": "com.assignment.temperatureapp-main-32:/drawable/tempdown.png"
+    },
+    {
+        "merged": "com.assignment.temperatureapp-merged_res-30:/xml_data_extraction_rules.xml.flat",
+        "source": "com.assignment.temperatureapp-main-32:/xml/data_extraction_rules.xml"
+    },
+    {
+        "merged": "com.assignment.temperatureapp-merged_res-30:/drawable_moon.jpg.flat",
+        "source": "com.assignment.temperatureapp-main-32:/drawable/moon.jpg"
+    },
+    {
+        "merged": "com.assignment.temperatureapp-merged_res-30:/layout_temp_item.xml.flat",
+        "source": "com.assignment.temperatureapp-main-32:/layout/temp_item.xml"
+    },
+    {
+        "merged": "com.assignment.temperatureapp-merged_res-30:/mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "com.assignment.temperatureapp-main-32:/mipmap-xhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.assignment.temperatureapp-merged_res-30:/mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "com.assignment.temperatureapp-main-32:/mipmap-xxxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.assignment.temperatureapp-merged_res-30:/mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "com.assignment.temperatureapp-main-32:/mipmap-xxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.assignment.temperatureapp-merged_res-30:/drawable_gradient_background.xml.flat",
+        "source": "com.assignment.temperatureapp-main-32:/drawable/gradient_background.xml"
+    },
+    {
+        "merged": "com.assignment.temperatureapp-merged_res-30:/layout_activity_temperature.xml.flat",
+        "source": "com.assignment.temperatureapp-main-32:/layout/activity_temperature.xml"
+    },
+    {
+        "merged": "com.assignment.temperatureapp-merged_res-30:/mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "com.assignment.temperatureapp-main-32:/mipmap-mdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.assignment.temperatureapp-merged_res-30:/layout_activity_details.xml.flat",
+        "source": "com.assignment.temperatureapp-main-32:/layout/activity_details.xml"
+    },
+    {
+        "merged": "com.assignment.temperatureapp-merged_res-30:/mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "com.assignment.temperatureapp-main-32:/mipmap-hdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.assignment.temperatureapp-merged_res-30:/drawable-v24_ic_launcher_foreground.xml.flat",
+        "source": "com.assignment.temperatureapp-main-32:/drawable-v24/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "com.assignment.temperatureapp-merged_res-30:/drawable_tempup.png.flat",
+        "source": "com.assignment.temperatureapp-main-32:/drawable/tempup.png"
+    }
+]
